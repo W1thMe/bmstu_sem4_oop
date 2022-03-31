@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/rec">
+        <file>img/icons8-save-64.png</file>
+        <file>img/icons8-открыть-документ-64.png</file>
+        <file>img/icons8-получение-наличных-64.png</file>
+        <file>img/icons8-информация-64.png</file>
+        <file>img/icons8-удалить-64.png</file>
+    </qresource>
+</RCC>
